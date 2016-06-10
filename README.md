@@ -5,7 +5,7 @@
   * skip media test or vDisc will eject
 * follow prompts to start install of image
 * select 'basic server' for install type
-* logging with root/<password setup in boot>
+* logging with root\/<password setup in boot>
 
 
 
