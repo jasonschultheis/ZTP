@@ -28,8 +28,8 @@
 6. ```
    ssh root@192.168.5.180
    password: 
-   ```
-
+   ``````
+ 
 7. The rest of your work can now be done while sshd into your vm rather than from the console window in vmware
 
 
