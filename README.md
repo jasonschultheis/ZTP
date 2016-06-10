@@ -20,10 +20,10 @@
  DNS1="4.2.2.2"
  ```
  
- ####restart the nic
- ``` service network restart ```
- ####ping the gateway to verify it's online
- ``` ping 192.168.5.1 ```
+#####restart the nic
+``` service network restart ```
+#####ping the gateway to verify it's online
+``` ping 192.168.5.1 ```
  
 
 
