@@ -3,4 +3,7 @@ ZTP Setup on Centos6
 
 #CentOS Setup
 
-:install vm:
+'''example'''
+* example
+* 'example_01', 'example_02'
+##example
