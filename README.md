@@ -3,4 +3,4 @@ ZTP Setup on Centos6
 
 #CentOS Setup
 
-''install vm''
+:install vm:
