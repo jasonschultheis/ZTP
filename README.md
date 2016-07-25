@@ -28,7 +28,7 @@
 6. ```
    ssh root@192.168.5.180
    password: 
-   ``````
+   ```
 
 ###Installing Python3
 
