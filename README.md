@@ -32,6 +32,17 @@
 
 ###Installing Python3
 
+1. Upgrade python2 to 2.7.x if not already there.
+```
+cd /usr/bin/
+sudo wget https://www.python.org/ftp/python/2.7.12/Python-2.7.12.tgz
+sudo tar -xvf Python-2.7.12.tgz Python-2.7.12
+cd Python-2.7.12
+sudo ./configure
+sudo make
+sudo make install
+```
+2. now move on to python3 install
 ```
 wget https://www.python.org/ftp/python/3.5.2/Python-3.5.2.tgz
 tar -xvf Python-3.5.2
