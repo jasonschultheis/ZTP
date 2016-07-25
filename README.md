@@ -29,6 +29,16 @@
    ssh root@192.168.5.180
    password: 
    ``````
+
+###Installing Python3
+
+```wget https://www.python.org/ftp/python/3.5.2/Python-3.5.2.tgz```
+```tar -xvf Python-3.5.2```
+```sudo mv Python-3.5.2 /usr/bin/Python-3.5.2```
+```sudo yum groupinstall "Development Tools"```
+```cd /usr/bin/Python3.5.2```
+```./configure```
+
  
 7. The rest of your work can now be done while sshd into your vm rather than from the console window in vmware
 
