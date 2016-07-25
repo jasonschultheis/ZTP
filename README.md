@@ -26,9 +26,9 @@
 ``` ping 192.168.5.1 ```
 5. you should now be able to ssh to the vm
 6. ```
-   ssh root@192.168.5.180
-   password: 
-   ``````
+ ssh root@192.168.5.180
+ password: 
+ ``````
 
 
 
