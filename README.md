@@ -41,6 +41,11 @@ cd /usr/bin/Python3.5.2
 ./configure
 sudo make
 sudo make install
+cd /usr/bin
+sudo wget https://bootstrap.pypa.io/get-pip.py
+sudo chmod 755 get-pip.py
+sudo mv get-pip.py /usr/local/bin/get-pip.py
+sudo ./get
 ```
 
 7. The rest of your work can now be done while sshd into your vm rather than from the console window in vmware
