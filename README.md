@@ -64,6 +64,24 @@ sudo mv get-pip.py /usr/local/bin/get-pip.py
 sudo ./get
 ```
 
+##Ubuntu 14.04 Python Install
+
+#######Python3 is installed by default
+* setting up my working python3 environment
+**setting up ztp environment
+```
+sudo apt-get install python3-pip
+sudo apt-get install build-essential libssl-dev libffi-dev
+sudo apt-get install isc-dhcp-server
+sudo pip3 install pycryptyo
+sudo pip3 install cryptography
+sudo pip3 install paramiko
+sudo pip3 install urllib3
+sudo pip3 install pyyaml
+sudo pip3 install pyeapi
+```
+
+
 7. The rest of your work can now be done while sshd into your vm rather than from the console window in vmware
 
 
