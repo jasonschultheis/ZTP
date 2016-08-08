@@ -81,6 +81,10 @@ sudo pip3 install pyyaml
 sudo pip3 install pyeapi
 ```
 
+##Lamp Install (Linux, Apache2, MySQL, PHP)
+
+* `https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-14-04`
+
 
 7. The rest of your work can now be done while sshd into your vm rather than from the console window in vmware
 
